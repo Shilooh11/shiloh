@@ -23,8 +23,6 @@ class MyApp extends StatelessWidget {
         LoginView.id: (context) => const LoginView(),
         RegisterView.id: (context) => const RegisterView(),
         
-        // Aquí debe estar definida la ruta para RegistroView
-        // Define más rutas si es necesario
       },
       //theme: AppTheme(selectedColor: 0).theme(),
 
